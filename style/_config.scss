@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Montserrat:wght@300;400;500;600;700&family=Open+Sans:ital,wght@1,500&family=Roboto:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+$prim-color: #480ca8;
+$prim-color-varint: #4cc9f0;
+$secondery-color: #f72585;
+$white-color: #ffffff;
+$light-color: rgba(#fff, 0.7);
+$black-color: #0c031b;
+$dark-color: rgba(#0c031b, 0.7);
+$success-color: #54eb72;
+$container-lg: 82%;
+$container-md: 90%;
